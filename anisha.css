@@ -62,12 +62,3 @@ transition: transform (0.2s);
     display: flex;
 }
 
-body.dark {
-  background-color: #121212;
-  color: #f0f0f0;
-}
-.theme-toggle {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-}
