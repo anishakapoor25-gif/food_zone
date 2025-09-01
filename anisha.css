@@ -9,8 +9,6 @@ body  {
   color: #000;
   transition: background-color 0.3s, color 0.3s;
   font-family: sans-serif;
-
-
 }
 h1  {
     text-align: center;
@@ -37,7 +35,6 @@ img {
     height: 100px;
     width: auto;
 }
-
 .card-container {
     padding: 30px;
     display: flex;
@@ -61,4 +58,6 @@ transition: transform (0.2s);
 .box-container {
     display: flex;
 }
+
+
 
